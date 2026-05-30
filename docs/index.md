@@ -2,108 +2,112 @@
 layout: home
 
 hero:
-  name: AI Agent 新时代
-  text: 深度解析自主代理架构与工程实践
-  tagline: 用课程门户而不是营销首页的方式组织学习内容，让概念、工具、记忆与实战章节在一个清晰的教学结构里展开。
+  name: "AI Agent 新时代"
+  text: "从 Vibe Coding 到 Agentic Engineering"
+  tagline: "一门面向程序员的 AI 工程实战课——理解分层、掌握方法论、构建 Agent 驱动的开发工作流"
   actions:
     - theme: brand
-      text: 开始学习
+      text: 🚀 开始学习
       link: /chapter-1
     - theme: alt
       text: 课程说明
       link: /guide
 
 features:
-  - title: 编辑型层级
-    details: 首页先建立课程定位和学习入口，正文页再承接深入阅读，不把讲义和导览混在一起。
-  - title: 课程门户
-    details: 章节总览像课程目录而不是产品卖点，强调结构、节奏和进入路径。
-  - title: 教学可扩展
-    details: 先用 5 章骨架起步，后续可以继续扩写案例、作业、课堂活动和专题页。
+  - icon: 🧠
+    title: 洞见驱动
+    details: 从 ChatGPT 时刻到 Cursor 取代 IDE，梳理 AI 编程演进时间线与拐点
+  - icon: 🔀
+    title: 程序员分层
+    details: Vibe Coder / Agentic Engineer / Harness Engineer——找到你的定位与进化路径
+  - icon: ⚙️
+    title: 方法论体系
+    details: SDD · Skill MCP · SOP Workflow——三位一体的 Agent 工程实践框架
+  - icon: 🗺️
+    title: 案例与延伸
+    details: 关键词速查、真实案例拆解、论文索引——从学到用的完整地图
 ---
 
-## 课程定位
+<div class="tech-bar">
+  <span>Python</span>
+  <span>OpenAI</span>
+  <span>LangChain</span>
+  <span>AutoGen</span>
+  <span>MCP</span>
+  <span>Cursor</span>
+  <span>Claude Code</span>
+</div>
 
 <div class="portal-panel">
   <div>
-    <p class="portal-eyebrow">Course Portal</p>
-    <h2>一套适合教学、培训和内部分享的 AI Agent 讲义站</h2>
+    <p class="portal-eyebrow">Course Overview</p>
+    <h2>5 章 · 从认知到实战的完整路线</h2>
+    <p style="color: var(--vp-c-text-2); margin-top: 0.8rem;">
+      这门课不是"AI 工具速查手册"，而是帮你建立<strong>工程范式认知</strong>：理解为什么 Agent 是新时代的银弹，以及如何让它为你所用。
+    </p>
   </div>
   <div class="portal-meta">
-    <div>
-      <strong>课程形式</strong>
-      <span>5 章以内轻量课程</span>
-    </div>
-    <div>
-      <strong>阅读体验</strong>
-      <span>首页导览 + 正文文档</span>
-    </div>
-    <div>
-      <strong>适用场景</strong>
-      <span>教学、培训、知识沉淀</span>
-    </div>
+    <div><strong>适合人群</strong><span>有 1+ 年开发经验的程序员</span></div>
+    <div><strong>学习方式</strong><span>阅读 + 动手 + 反思</span></div>
+    <div><strong>预估时长</strong><span>约 3-5 小时</span></div>
   </div>
 </div>
 
-## 学习路径
+## 学习路线
 
 <div class="path-grid">
   <div class="path-card">
-    <span>01</span>
-    <h3>建立概念</h3>
-    <p>先理解 Agent 的定义、边界和工作方式，避免把它当成普通聊天机器人。</p>
+    <span>1</span>
+    <h3>认知重建</h3>
+    <p>理解时间线、Aha Moment、AI 编程为何是"这一次不一样"</p>
   </div>
   <div class="path-card">
-    <span>02</span>
-    <h3>理解执行</h3>
-    <p>通过工具调用和流程拆解，理解 Agent 如何真正介入现实任务。</p>
+    <span>2</span>
+    <h3>定位与分层</h3>
+    <p>区分 Vibe Coding 与 Agentic Engineering，找到自己当前的位置</p>
   </div>
   <div class="path-card">
-    <span>03</span>
-    <h3>走向实战</h3>
-    <p>把上下文、记忆、协作和风控串起来，形成可落地的教学和业务案例。</p>
+    <span>3</span>
+    <h3>方法论落地</h3>
+    <p>掌握 SDD、Skill MCP、SOP Workflow，在真实项目中实践</p>
   </div>
 </div>
 
-## 课程大纲
+## 章节导航
 
 <div class="course-grid">
   <div class="course-card">
-    <h3>课程说明</h3>
-    <p>了解课程目标、适合人群、学习方式和建议节奏。</p>
-    <a class="course-link" href="/guide">查看说明</a>
+    <h3>第 1 章 · 为什么是 AI Agent 新时代</h3>
+    <p>时间线 · Aha Moment · Vibe Coding 的诱惑与陷阱</p>
+    <a class="course-link" href="/chapter-1">开始阅读 →</a>
   </div>
   <div class="course-card">
-    <h3>第 1 章 为什么是 AI Agent 新时代</h3>
-    <p>从 aha 时刻、vibe 定义和裁员浪潮切入，理解这轮变化为什么不是普通技术热点。</p>
-    <a class="course-link" href="/chapter-1">进入章节</a>
+    <h3>第 2 章 · 程序员分层与工程范式</h3>
+    <p>三类程序员 · 银弹论 · 从提示词到工程思维</p>
+    <a class="course-link" href="/chapter-2">开始阅读 →</a>
   </div>
   <div class="course-card">
-    <h3>第 2 章 程序员分层与工程范式</h3>
-    <p>讨论 AI 时代程序员的分类，以及 Vibe Coding 和 Agentic Engineering 的边界。</p>
-    <a class="course-link" href="/chapter-2">进入章节</a>
+    <h3>第 3 章 · 旧经验还有效吗</h3>
+    <p>设计模式 · 代码审查 · 测试驱动——哪些需要进化</p>
+    <a class="course-link" href="/chapter-3">开始阅读 →</a>
   </div>
   <div class="course-card">
-    <h3>第 3 章 旧经验还有效吗</h3>
-    <p>重新审视最佳实践、复杂度控制和调 bug 的方式，判断哪些经验还能继续用。</p>
-    <a class="course-link" href="/chapter-3">进入章节</a>
+    <h3>第 4 章 · RD 方法论与工具栈</h3>
+    <p>SDD · Skill MCP · SOP Workflow · 工具全景图</p>
+    <a class="course-link" href="/chapter-4">开始阅读 →</a>
   </div>
   <div class="course-card">
-    <h3>第 4 章 RD 方法论与工具栈</h3>
-    <p>梳理 SDD、Skill MCP、SOP/WF，以及 code agent、design agent 和底层模型的分层关系。</p>
-    <a class="course-link" href="/chapter-4">进入章节</a>
-  </div>
-  <div class="course-card">
-    <h3>第 5 章 关键词、案例与延伸</h3>
-    <p>把 Harness Engineering、一人公司、企业软件和开源事件串成后续研究地图。</p>
-    <a class="course-link" href="/chapter-5">进入章节</a>
+    <h3>第 5 章 · 关键词、案例与延伸</h3>
+    <p>术语速查 · 真实项目拆解 · 研究地图</p>
+    <a class="course-link" href="/chapter-5">开始阅读 →</a>
   </div>
 </div>
 
-## 课程风格
-
-<div class="editorial-note">
-  <p>
-    这一版首页参考了 Stitch 生成的课程门户方案，保留了编辑型层级、蓝白学术配色和清晰的章节导览，避免使用常见的产品营销式首屏表达。
-  </p>
+<div class="cta-block">
+  <h2>准备好开始了吗？</h2>
+  <p>无需安装环境，打开浏览器即可阅读。建议先通读第 1 章建立认知，再根据兴趣深入。</p>
+  <div class="cta-actions">
+    <a href="/chapter-1">从第 1 章开始</a>
+    <a href="/guide">查看课程说明</a>
+  </div>
 </div>
