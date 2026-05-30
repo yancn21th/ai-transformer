@@ -83,17 +83,17 @@ features:
   </div>
   <div class="course-card">
     <h3>第 2 章 · 程序员分层与工程范式</h3>
-    <p>三类程序员 · 银弹论 · 从提示词到工程思维</p>
+    <p>LLM 层 · LLM 应用层 · Agent-Assisted Coding 与 Agent Engineering</p>
     <a class="course-link" href="/chapter-2">开始阅读 →</a>
   </div>
   <div class="course-card">
-    <h3>第 3 章 · 旧经验还有效吗</h3>
-    <p>设计模式 · 代码审查 · 测试驱动——哪些需要进化</p>
+    <h3>第 3 章 · AI 时代的银弹</h3>
+    <p>软件工程的银弹问题 · 为什么 AI 看起来像银弹 · 为什么真正关键的是工程编排</p>
     <a class="course-link" href="/chapter-3">开始阅读 →</a>
   </div>
   <div class="course-card">
-    <h3>第 4 章 · RD 方法论与工具栈</h3>
-    <p>SDD · Skill MCP · SOP Workflow · 工具全景图</p>
+    <h3>第 4 章 · RD 方法论与基础设施</h3>
+    <p>LLM 选择 · Code Agent 入口 · Spec / Skill / Workflow / Evals</p>
     <a class="course-link" href="/chapter-4">开始阅读 →</a>
   </div>
   <div class="course-card">
