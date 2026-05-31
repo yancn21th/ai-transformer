@@ -3,3 +3,4 @@ docs/.vitepress/cache
 docs/.vitepress/cache/deps
 docs/.vitepress/dist
 dist
+.vscode

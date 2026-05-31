@@ -9,19 +9,18 @@ export default withMermaid(defineConfig({
   mermaid: {},
   themeConfig: {
     nav: [
-      { text: '课程说明', link: '/guide' },
       { text: '开始学习', link: '/chapter-1' }
     ],
     sidebar: [
       {
         text: '课程内容',
         items: [
-          { text: '课程说明', link: '/guide' },
           { text: '第 1 章 为什么是 AI Agent 新时代', link: '/chapter-1' },
           { text: '第 2 章 程序员分层与工程范式', link: '/chapter-2' },
           { text: '第 3 章 AI 时代的银弹', link: '/chapter-3' },
           { text: '第 4 章 RD 方法论与基础设施', link: '/chapter-4' },
-          { text: '第 5 章 关键词、案例与延伸', link: '/chapter-5' }
+          { text: '第 5 章 关键词、案例与延伸', link: '/chapter-5' },
+          { text: '第 6 章 词汇表', link: '/chapter-6' }
         ]
       }
     ],

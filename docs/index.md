@@ -9,9 +9,6 @@ hero:
     - theme: brand
       text: 🚀 开始学习
       link: /chapter-1
-    - theme: alt
-      text: 课程说明
-      link: /guide
 
 features:
   - icon: 🧠
@@ -41,7 +38,7 @@ features:
 <div class="portal-panel">
   <div>
     <p class="portal-eyebrow">Course Overview</p>
-    <h2>5 章 · 从认知到实战的完整路线</h2>
+    <h2>6 章 · 从认知到实战的完整路线</h2>
     <p style="color: var(--vp-c-text-2); margin-top: 0.8rem;">
       这门课不是"AI 工具速查手册"，而是帮你建立<strong>工程范式认知</strong>：理解为什么 Agent 是新时代的银弹，以及如何让它为你所用。
     </p>
@@ -101,6 +98,11 @@ features:
     <p>术语速查 · 真实项目拆解 · 研究地图</p>
     <a class="course-link" href="/chapter-5">开始阅读 →</a>
   </div>
+  <div class="course-card">
+    <h3>第 6 章 · 词汇表</h3>
+    <p>核心术语定义 · 中英对照 · 便于回看与检索</p>
+    <a class="course-link" href="/chapter-6">开始阅读 →</a>
+  </div>
 </div>
 
 <div class="cta-block">
@@ -108,6 +110,6 @@ features:
   <p>无需安装环境，打开浏览器即可阅读。建议先通读第 1 章建立认知，再根据兴趣深入。</p>
   <div class="cta-actions">
     <a href="/chapter-1">从第 1 章开始</a>
-    <a href="/guide">查看课程说明</a>
+    <a href="/chapter-6">查看词汇表</a>
   </div>
 </div>
